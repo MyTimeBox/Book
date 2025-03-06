@@ -21,7 +21,7 @@
 ## 🌟 赞助商
 本项目由 [AnimateMyPic](https://animatemypic.com) 赞助支持
 
-> AnimateMyPic.com - 使用AI技术为您的照片注入生命力！只需一键点击，即可将静态图片转换成充满活力的动画。现在访问即可体验！
+> animatemypic.com - 使用AI技术为您的照片注入生命力！只需一键点击，即可将静态图片转换成充满活力的动画。现在访问即可体验！
 
 ---
 
