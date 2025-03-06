@@ -17,11 +17,12 @@
 - Redis入门指南
 - Python核心编程
 
----
-## 🌟 赞助商
-本项目由 [AnimateMyPic](https://animatemypic.com) 赞助支持
+<div align="center">
+  <a href="https://animatemypic.com">
+    <img src="sponsor_logo.png" alt="Sponsored by AnimateMyPic" width="200"/>
+  </a>
+  
+  [![Sponsored by AnimateMyPic](https://img.shields.io/badge/Sponsored%20by-AnimateMyPic-brightgreen)](https://animatemypic.com)
+</div>
 
-> animatemypic.com - 使用AI技术为您的照片注入生命力！只需一键点击，即可将静态图片转换成充满活力的动画。现在访问即可体验！
-
----
 
