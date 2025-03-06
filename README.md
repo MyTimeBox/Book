@@ -22,7 +22,7 @@
     <img src="sponsor_logo.png" alt="Sponsored by AnimateMyPic" width="200"/>
   </a>
   
-  [![Sponsored by AnimateMyPic](https://img.shields.io/badge/Sponsored%20by-AnimateMyPic-brightgreen)](https://animatemypic.com)
+[![Sponsored by AnimateMyPic](https://img.shields.io/badge/Sponsored_by-AnimateMyPic-brightgreen?logo=github&logoColor=white&style=for-the-badge)](https://animatemypic.com)
 </div>
 
 
